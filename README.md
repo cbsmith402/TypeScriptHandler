@@ -29,6 +29,6 @@ Once that's done, you'll need to install the TypeScriptHandler.dll in the /bin f
 Using it
 --------
 To include a .ts file in your HTML, add a script reference as if it were a regular Javascript file:
-    <script type="text/javascript" src="/scripts/hello.ts" />
+    `<script type="text/javascript" src="/scripts/hello.ts" />`
 
 Notice that the file extension is ".ts" instead of ".js".
